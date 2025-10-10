@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhigobi/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/abhigobi/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
